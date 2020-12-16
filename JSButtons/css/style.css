@@ -1,0 +1,16 @@
+.btn-red, .btn-red:hover {
+	background-color: red;
+}
+
+.btn-green, .btn-green:hover {
+	background-color: green;
+}
+
+.btn-blue, .btn-blue:hover {
+	background-color: blue;
+}
+
+.switcher-colors, .switcher-colors:hover {
+	background-color: white;
+	color: black;
+}
