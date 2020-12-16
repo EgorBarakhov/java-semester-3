@@ -1,0 +1,11 @@
+.wrapper {
+	border: 3px solid red;
+	width: 1230px;
+	height: 670px;
+}
+
+#block {
+	position: absolute;
+	width: 230px;
+	height: 70px;
+}
